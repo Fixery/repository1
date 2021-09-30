@@ -1,0 +1,4 @@
+File ini terlampir dalam
+
+Github : https://github.com/Fixery/repository1
+Heroku : https://project300921.herokuapp.com/index.html
